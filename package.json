@@ -20,8 +20,11 @@
     "android",
     "component"
   ],
+  "dependencies": {
+    "react-native-dash-2": "*"
+  },
   "peerDependencies": {
-    "react-native": ">= 0.58.2",
+    "react-native": ">= 0.58.2"
   },
   "author": "Eugnis (https://github.com/eugnis)",
   "contributors": [
