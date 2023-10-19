@@ -3,9 +3,6 @@
   "version": "0.9.1",
   "description": "Timeline component for React Native",
   "main": "lib/index.js",
-  "dependencies": {
-    "react-native-dash-2": "*"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
