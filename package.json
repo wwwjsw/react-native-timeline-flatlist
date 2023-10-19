@@ -1,6 +1,6 @@
 {
   "name": "react-native-timeline-flatlist",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "description": "Timeline component for React Native",
   "main": "lib/index.js",
   "scripts": {
@@ -9,9 +9,6 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:wwwjsw/react-native-timeline-flatlist.git"
-  },
-  "dependencies": {
-    "react-native-dash-2": "*"
   },
   "keywords": [
     "react-native",
@@ -24,7 +21,8 @@
     "component"
   ],
   "peerDependencies": {
-    "react-native": ">= 0.58.2"
+    "react-native": ">= 0.58.2",
+    "react-native-dash-2": "*"
   },
   "author": "Eugnis (https://github.com/eugnis)",
   "contributors": [
